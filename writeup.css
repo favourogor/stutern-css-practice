@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+    border-bottom: 1px solid green;
+    border-top: 1px solid blue;
+    min-height: 90vh;
+    max-width: 800px;
+    margin: 0 auto;
+   
+}
+
+.section{
+    font-size: 18px;
+}
+
+#first {
+    font-size: 14px;
+    color: green;
+}
+
+#second {
+    font-size: 14px;
+    color: red;
+}
+
+#third {
+    font-size: 14px;
+    color: blue;
+}
+
